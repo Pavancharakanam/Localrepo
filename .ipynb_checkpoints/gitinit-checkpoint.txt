@@ -1,4 +1,7 @@
 git init test file.
 
 this is dev in local repo
+
 added for pull commands mergeeeeee.
+added for pull commands and merge conflicts.
+
